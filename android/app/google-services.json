@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "118446443598",
+    "firebase_url": "https://surakshit-video-kyc.firebaseio.com",
+    "project_id": "surakshit-video-kyc",
+    "storage_bucket": "surakshit-video-kyc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118446443598:android:c494e91614a9eaa6d1471f",
+        "android_client_info": {
+          "package_name": "com.codellion.adminsurakshitvideokyc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118446443598-0dade1dfqm6nbiqevsvqkejk3joo3em9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItA7S9NRevTKm16ZuKjr780Lfa-bc6MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118446443598-0dade1dfqm6nbiqevsvqkejk3joo3em9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118446443598:android:bd425d43733fc12ad1471f",
+        "android_client_info": {
+          "package_name": "com.codellion.surakshitvideokyc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118446443598-ntvqumikpu35hjji1jm1s82gsfn3u1qi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codellion.surakshitvideokyc",
+            "certificate_hash": "baaee9045d7cfb15e66c2cc2754fbfadff72b0c7"
+          }
+        },
+        {
+          "client_id": "118446443598-0dade1dfqm6nbiqevsvqkejk3joo3em9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItA7S9NRevTKm16ZuKjr780Lfa-bc6MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118446443598-0dade1dfqm6nbiqevsvqkejk3joo3em9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118446443598:android:86ff7e89984cea95d1471f",
+        "android_client_info": {
+          "package_name": "com.gianmarcodifrancesco.face_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118446443598-0dade1dfqm6nbiqevsvqkejk3joo3em9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItA7S9NRevTKm16ZuKjr780Lfa-bc6MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118446443598-0dade1dfqm6nbiqevsvqkejk3joo3em9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
